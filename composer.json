@@ -1,44 +1,50 @@
 {
-    "name": "itinerisltd/gf-disable-auto-update",
-    "type": "wordpress-muplugin",
-    "description": "Turn off automatic updates in Gravity Forms.",
-    "keywords": [
-        "gravityforms",
-        "auto-update",
-        "wordpress",
-        "wp"
-    ],
-    "homepage": "https://itinerisltd.github.io/gf-disable-auto-update/",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Itineris Limited",
-            "email": "hello@itineris.co.uk",
-            "homepage": "https://itineris.co.uk/",
-            "role": "Company"
-        },
-        {
-            "name": "Tang Rufus",
-            "email": "tangrufus@gmail.com",
-            "homepage": "https://typist.tech/",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": "^7.4 || ^8.0"
+  "name": "itinerisltd/gf-disable-auto-update",
+  "type": "wordpress-muplugin",
+  "description": "Turn off automatic updates in Gravity Forms.",
+  "keywords": [
+    "gravityforms",
+    "auto-update",
+    "wordpress",
+    "wp"
+  ],
+  "homepage": "https://itinerisltd.github.io/gf-disable-auto-update/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Itineris Limited",
+      "email": "hello@itineris.co.uk",
+      "homepage": "https://itineris.co.uk/",
+      "role": "Company"
     },
-    "require-dev": {
-        "roave/security-advisories": "dev-master"
+    {
+      "name": "Tang Rufus",
+      "email": "tangrufus@gmail.com",
+      "homepage": "https://typist.tech/",
+      "role": "Developer"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.1.x-dev"
-        }
-    },
-    "prefer-stable": true,
-    "support": {
-        "email": "hello@itineris.co.uk",
-        "issues": "https://github.com/ItinerisLtd/gf-disable-auto-update/issues",
-        "source": "https://github.com/ItinerisLtd/gf-disable-auto-update"
+    {
+      "name": "Lee Hanbury-Pickett",
+      "email": "lee.hanbury@gmail.com",
+      "homepage": "https://github.com/codepuncher",
+      "role": "Developer"
     }
+  ],
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  },
+  "prefer-stable": true,
+  "support": {
+    "email": "hello@itineris.co.uk",
+    "issues": "https://github.com/ItinerisLtd/gf-disable-auto-update/issues",
+    "source": "https://github.com/ItinerisLtd/gf-disable-auto-update"
+  }
 }
