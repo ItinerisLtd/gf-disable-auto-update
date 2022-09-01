@@ -5,7 +5,7 @@ declare(strict_types=1);
  * Plugin Name:     GF Disable Auto Update
  * Plugin URI:      https://github.com/itinerisltd/gf-disable-auto-update
  * Description:     Turn off automatic and background updates in Gravity Forms.
- * Version:         0.1.0
+ * Version:         0.1.1
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
  * Text Domain:     gf-disable-auto-update
